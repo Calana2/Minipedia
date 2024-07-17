@@ -4,9 +4,9 @@ title: Séneca y la virtud
 category: Pensamientos
 ---
 
+![fotoDeSeneca](/imagenes/seneca.jpg)
 # Séneca y la virtud
 
-![fotoDeSeneca](/imagenes/seneca.jpg)
 
 Un punto muy importante en el pensamiento estoico es la búsqueda del desarrollo personal, la virtud. La noción de virtud varía con cada autor, pero en esta corriente de pensamiento consiste en actuar siempre de acuerdo a la razón, evitando dejarse llevar por los afectos o pasiones; por ejemplo la valentía es una virtud, pero su extremo, la temeridad, es irracional y por tanto ya deja de serlo. En su obra ***Cartas a Lucilio*** Séneca habla de la admiración y el aprendizaje por medio de la observación a individuos ejemplares. Considerando que hay distintos tipos de virtudes: fuerza, inteligencia, carisma, bondad, etcétera; podemos mejorar en todos los aspectos si tomamos de modelo a aquellos que las poseen. 
 
