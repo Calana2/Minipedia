@@ -27,10 +27,10 @@ export default function Home() {
     </section>
 
     <footer className="text-center font-poppins p-7 border-t-2 border-neutral-600">
-      Contacto: Protoncala@proton.me
+      Contacto: kalcast00@proton.me
     </footer>
    </section>
-    <div className="absolute w-30 h-20 top-20 left-20"> 
+    <div className="absolute md:w-30 md:h-20 md:top-20 md:left-20 w-6 h-6 top-6"> 
      <Link href={"/html/info"}>
       <InformationCircleIcon width={50}/>
      </Link>
