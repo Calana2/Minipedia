@@ -60,9 +60,9 @@ export const getArticleData = async (id:string) => {
  
  const fileContents = fs.readFileSync(fullPath,"utf-8")
 
- const matterResult = matter(fileContents)
+ const matterResult = matter(fileContents) // get properties and content
 
- const processedContent = await remark()
+ const processedContent = await remark() // md to html
  .use(html)
  .process(matterResult.content)
  

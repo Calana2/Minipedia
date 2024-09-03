@@ -6,7 +6,7 @@ export default function Page(){
    <span className="font-cormorantGaramond text-5xl">
     Minipedia
    </span>
-   <p className="mb-5">Pequeño Blog Minimalista creado con motivos de práctica.</p>
+   <p className="mb-5">Pequeño Blog Minimalista, créditos a rithmic.</p>
    <Image alt="imagen" width={100} height={100} src={"/imagenes/8crow.png"}/>
   </main>
  )

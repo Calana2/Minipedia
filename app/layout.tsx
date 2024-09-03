@@ -16,7 +16,7 @@ const poppins = Poppins({
 
 
 export const metadata: Metadata = {
-  title: "Blog",
+  title: "Minipedia, Calana's Blog",
   description: "A simple blog",
 };
 
