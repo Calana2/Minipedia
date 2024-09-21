@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 article {
  @apply flex flex-col gap-3 font-poppins text-lg tracking-wide mb-20;
 }
@@ -20,6 +21,27 @@ article > h3 {
 
 article > h4, h5, h6 {
  @apply font-cormorantGaramond text-lg tracking-tight;
+}
+
+
+/* Media queries */
+
+@media (max-width: 768px) {
+ body {
+ @apply text-sm 
+ }
+ article > h1 {
+  @apply font-cormorantGaramond text-2xl text-center tracking-tight;
+ }
+ article > h2 {
+  @apply font-cormorantGaramond text-lg tracking-tight border-b border-neutral-400 pb-2;
+ }
+ article > h3 {
+  @apply font-cormorantGaramond text-base tracking-tight;
+ }
+ article > h4, h5, h6 {
+  @apply font-cormorantGaramond text-sm tracking-tight;
+ }
 }
 
 article > ol {
@@ -43,5 +65,47 @@ article > p > img {
 }
 
 article > p > a {
- @apply text-blue-900 underline;
+ @apply text-orange-600 font-semibold text-sm;
 }
+
+ article > p > a:hover {
+  @apply text-amber-600
+ }
+
+/* Animations */
+
+.typed-out {
+  width: 0;
+  margin-left:35%;
+  text-decoration:underline;
+  text-underline-offset: 1px;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 1.0rem;
+  animation: typing 10s steps(80) forwards reverse;
+  animation-iteration-count: infinite;
+}
+
+@media(max-width:768px) {
+ .typed-out { 
+  margin-left:25%;
+ }
+}
+
+.typed-out::after {
+ content:"";
+ border-right: .15em solid white;
+ margin-left: 0.1em;
+ animation: blink 1s infinite;
+}
+
+@keyframes typing {
+    0% { width: 0; color:#202020;}
+    50% { width: 100%; color:white;}
+    75% { width: 0; color: #202020;}
+}
+
+@keyframes blink {
+ to { border-right: 1px solid #202020;}
+}
+

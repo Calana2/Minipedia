@@ -8,7 +8,7 @@ category: Pensamientos
 # Schopenhauer y la felicidad
 
 
-Pasamos una gran parte de nuestra vida anhelando una "satisfacción duradera", pero en la filosofía pesimista de Schopenhauer se concibe la idea de felicidad como una meta inalcanzable, una quimera. Cada persona cree tener un legítimo derecho a la felicidad y al placer, y como no lo consigue entonces cree que está siedo víctima de una injusticia. A este último hecho hace alusión con la metáfora de un joven que sale a cazar un ciervo que no existe.
+Pasamos una gran parte de nuestra vida anhelando una "satisfacción duradera", pero en la filosofía pesimista de Schopenhauer se concibe la idea de felicidad como una meta inalcanzable, una quimera. Cada persona cree tener un legítimo derecho a la felicidad y al placer, y como no lo consigue entonces cree que está siendo víctima de una injusticia. A este último hecho hace alusión con la metáfora de un joven que sale a cazar un ciervo que no existe.
 
 ## El sufrimiento como motor
 
