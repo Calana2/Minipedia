@@ -13,21 +13,22 @@ export default function Home() {
       <section className="flex justify-center gap-5 mt-10">
         <div className="">
           <Link href={"/site/info"}>
-            <EyeIcon width={50} className="" />
+            <EyeIcon width={50} className="shadow-md shadow-black" />
           </Link>
         </div>
         <div className="">
           <Link href={"/site/info"}>
-            <EyeIcon width={50} className="" />
+            <EyeIcon width={50} className="shadow-md shadow-black" />
           </Link>
         </div>
       </section>
 
       {/* Text */}
-      <section className="mx-auto w-11/12 md:w-1/2 mt-10 flex flex-col gap-16 mb-20">
+      <section className="mx-auto w-11/12 md:w-1/2 mt-10 flex flex-col gap-16 mb-20 border
+      border-neutral-600 p-8 shadow-white shadow-light">
         <header className="font-cormorantGaramond font-light text-6xl text-white text-center
      flex flex-col gap-4">
-          <h1 className="">Minipedia</h1>
+          <h1 className="neon-lights">Minipedia</h1>
           <div className="inline-block">
            <span className="typed-out block text-left">
             El conocimiento es poder
