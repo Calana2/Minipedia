@@ -34,13 +34,13 @@ article > h4, h5, h6 {
   @apply font-cormorantGaramond text-2xl text-center tracking-tight;
  }
  article > h2 {
-  @apply font-cormorantGaramond text-lg tracking-tight border-b border-neutral-400 pb-2;
+  @apply font-cormorantGaramond text-2xl tracking-tight border-b border-neutral-400 pb-2;
  }
  article > h3 {
-  @apply font-cormorantGaramond text-base tracking-tight;
+  @apply font-cormorantGaramond text-2xl tracking-tight;
  }
  article > h4, h5, h6 {
-  @apply font-cormorantGaramond text-sm tracking-tight;
+  @apply font-cormorantGaramond text-base tracking-tight;
  }
 }
 
